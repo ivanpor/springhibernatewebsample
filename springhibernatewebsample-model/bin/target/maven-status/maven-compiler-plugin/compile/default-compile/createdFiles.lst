@@ -1,0 +1,7 @@
+com/formacion/springhibernatesample/model/hibernate/ProductDaoImpl.class
+com/formacion/springhibernatesample/model/dao/ProductDao.class
+com/formacion/springhibernatesample/model/converter/ProductConverter.class
+com/formacion/springhibernatesample/model/dao/GenericDao.class
+com/formacion/springhibernatesample/model/service/ProductServiceImpl.class
+com/formacion/springhibernatesample/model/entity/Product.class
+com/formacion/springhibernatesample/model/hibernate/GenericDaoImpl.class

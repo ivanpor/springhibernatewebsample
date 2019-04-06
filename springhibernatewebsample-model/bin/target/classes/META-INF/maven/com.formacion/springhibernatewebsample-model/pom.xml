@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.formacion</groupId>
+		<artifactId>springhibernatewebsample</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	
+	<artifactId>springhibernatewebsample-model</artifactId>
+	
+	<name>springhibernatewebsample-model</name>
+	<url>http://maven.apache.org</url>
+	
+	<properties>
+	  <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+  
+	<dependencies>
+		<!-- Dependencia módulo -api -->
+		<dependency>
+		  <groupId>com.formacion</groupId>
+		  <artifactId>springhibernatewebsample-api</artifactId>
+		  <version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	
+		<!-- DEPENDENCIAS SPRING -->
+		<!-- Dependencia principal de Spring -->
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-core</artifactId>
+		</dependency>
+		
+		<!-- Dependencia para las factorías de instanciación de los beans -->
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-beans</artifactId>
+		</dependency>
+		
+		<!-- Dependencia para el contexto del framework -->
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-context</artifactId>
+		</dependency>
+		
+		<!-- Dependencia que provee integración con Hibernate -->
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-orm</artifactId>
+		</dependency>
+		
+		<!-- DEPENDENCIAS HIBERNATE -->
+		<!-- Dependencia principal de Hibernate -->
+		<dependency>
+		    <groupId>org.hibernate</groupId>
+		    <artifactId>hibernate-core</artifactId>
+		</dependency>
+		
+		<!-- Dependencia de implementación de BBDD en memoria -->
+		<dependency>
+		    <groupId>com.h2database</groupId>
+		    <artifactId>h2</artifactId>
+		    <version>${h2.version}</version>
+		</dependency>
+		
+			
+	</dependencies>
+</project>

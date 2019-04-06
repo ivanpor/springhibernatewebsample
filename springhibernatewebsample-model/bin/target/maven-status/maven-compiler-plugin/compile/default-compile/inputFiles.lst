@@ -1,0 +1,7 @@
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/entity/Product.java
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/dao/GenericDao.java
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/hibernate/GenericDaoImpl.java
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/converter/ProductConverter.java
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/service/ProductServiceImpl.java
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/dao/ProductDao.java
+/home/ivan/dev/workspaces/workspace_adri/springhibernatewebsample/springhibernatewebsample-model/src/main/java/com/formacion/springhibernatesample/model/hibernate/ProductDaoImpl.java

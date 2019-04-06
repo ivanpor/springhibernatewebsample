@@ -1,0 +1,4 @@
+com/formacion/springhibernatesample/api/dto/ProductDto.class
+com/formacion/springhibernatesample/api/exception/ProductNotFoundException.class
+com/formacion/springhibernatesample/api/service/ProductService.class
+com/formacion/springhibernatesample/api/dto/ErrorDto.class
